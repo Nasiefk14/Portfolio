@@ -1,0 +1,44 @@
+body{
+    font-family: Raleway;
+}
+.homebg{
+    background-image: url(image.jpeg);
+    background-size: cover;
+}
+.jumbotron{
+    background-color: #272727;
+}
+.navbar {
+    background-color: #272727;
+}
+.homeclr{
+    color: #14a76c;
+    margin-top: -0.99%;
+}
+.textclr{
+    color: #747474;
+}
+.navclr{
+    color: #14a76c;
+}
+.text-dec{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover 
+{
+     color:#ff662f; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.row > div {
+    padding: 0 6px !important;
+}
+
+img {
+  margin-top: 8px;
+  vertical-align: middle;
+
+}
+

@@ -42,3 +42,7 @@ img {
 
 }
 #success_message{ display: none;}
+.btnnew{
+    background-color:#14a76c ;
+    border: 2px blod #14a76c;
+}
